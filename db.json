@@ -1,0 +1,232 @@
+{
+  "usuario": [
+    {
+      "nome": "teste",
+      "email": "teste@gmail.com",
+      "idade": "18",
+      "senha": "teste1234",
+      "cpf": "11122233308",
+      "foto": "",
+      "id": 1
+    },
+    {
+      "nome": "Tiago",
+      "email": "tiago@gmail.com",
+      "idade": "22",
+      "senha": "tester12345678",
+      "cpf": "11122233308",
+      "foto": "https://i.pinimg.com/236x/05/0b/72/050b721378546e519bd6e33c4ccf9630.jpg",
+      "id": 2
+    },
+    {
+      "nome": "José",
+      "email": "josé@gmail.com",
+      "idade": "55",
+      "senha": "tester12345678",
+      "cpf": "11122233308",
+      "foto": "https://pbs.twimg.com/profile_images/1268204267749494788/az__pHAX_400x400.jpg",
+      "id": 3
+    },
+    {
+      "nome": "Ana Martha ",
+      "email": "ana@mail.com",
+      "idade": "32",
+      "senha": "ana12345",
+      "cpf": "12345278412",
+      "foto": "https://example.com/myphoto.jpg",
+      "id": 4
+    },
+    {
+      "nome": "Maria Callas",
+      "email": "callas@mail.com",
+      "idade": "30",
+      "senha": "123asdfg",
+      "cpf": "78945612345",
+      "foto": "https://example.com/myphoto.jpg",
+      "id": 5
+    },
+    {
+      "nome": "Rita Lee",
+      "email": "rita@mail.com",
+      "idade": "82",
+      "senha": "123asdfgh",
+      "cpf": "23456242189",
+      "foto": "https://example.com/myphoto.jpg",
+      "id": 6
+    }
+  ],
+  "categorias": [
+    {
+      "titulo": "Tecnologia",
+      "id": 1
+    },
+    {
+      "titulo": "Administração",
+      "id": 2
+    },
+    {
+      "titulo": "Marketing",
+      "id": 3
+    },
+    {
+      "titulo": "Design",
+      "id": 4
+    },
+    {
+      "titulo": "Dicas de carreira",
+      "id": 5
+    }
+  ],
+  "cursos": [
+    {
+      "nome": "Curso de Java",
+      "informacoes": "Curso de Java para iniciantes",
+      "resumo": "Introdução ao Java",
+      "carga_horaria": 60,
+      "link": "java.com",
+      "status": "Cursando",
+      "categoria": 1,
+      "id": 1
+    },
+    {
+      "nome": "Curso de Python",
+      "informacoes": "Curso de Python para iniciantes",
+      "resumo": "Introdução ao Python",
+      "carga_horaria": 60,
+      "link": "python.com",
+      "status": "Cursando",
+      "categoria": 1,
+      "id": 2
+    },
+    {
+      "nome": "Curso de C#",
+      "informacoes": "Curso de C# para iniciantes",
+      "resumo": "Introdução ao C#",
+      "carga_horaria": 60,
+      "link": "csharp.com",
+      "status": "Cursando",
+      "categoria": 1,
+      "id": 3
+    },
+    {
+      "nome": "Adm de Empresas",
+      "informacoes": "Administração de Empresas para iniciantes",
+      "resumo": "Introdução a Administração de Empresas",
+      "carga_horaria": 60,
+      "link": "admdeempresas.com",
+      "status": "Cursando",
+      "categoria": 2,
+      "id": 4
+    },
+    {
+      "nome": "Adm de R.H",
+      "informacoes": "Administração de RH",
+      "resumo": "Introdução a RH",
+      "carga_horaria": 60,
+      "link": "rhadm.com",
+      "status": "Cursando",
+      "categoria": 2,
+      "id": 5
+    },
+    {
+      "nome": "Adm de Proj. de Desenv. de Software",
+      "informacoes": "Administração de Projetos",
+      "resumo": "Introdução a Projetos, em qualquer plataforma ou linguagem.",
+      "carga_horaria": 60,
+      "link": "projetosadm.com",
+      "status": "Cursando",
+      "categoria": 2,
+      "id": 6
+    },
+    {
+      "nome": "Marketing Digital Básico",
+      "informacoes": "Introdução Marketing Digital do zero",
+      "resumo": "Introdução a Marketing digital",
+      "carga_horaria": 60,
+      "link": "marketingdigital.com",
+      "status": "Cursando",
+      "categoria": 3,
+      "id": 7
+    },
+    {
+      "nome": "Marketing de Redes Sociais",
+      "informacoes": "Introdução a marketing utilizando redes sociais",
+      "resumo": "aprenda utilizar redes sociais para alavancar o seu negócio",
+      "carga_horaria": 60,
+      "link": "marketingrs.com",
+      "status": "Cursando",
+      "categoria": 3,
+      "id": 8
+    },
+    {
+      "nome": "Marketing para iniciantes",
+      "informacoes": "Zero to hero",
+      "resumo": "Aprenda a lidar com Marketing da sua empresa do zero",
+      "carga_horaria": 180,
+      "link": "marketing.com",
+      "status": "Cursando",
+      "categoria": 3,
+      "id": 9
+    },
+    {
+      "nome": "Introdução ao Design Gráfico",
+      "informacoes": "Técnicas de Designer gráfico.",
+      "resumo": "Aprenda técnicas essenciais para ser um Designer gráfico.",
+      "carga_horaria": 120,
+      "link": "designergrafico.com",
+      "status": "Cursando",
+      "categoria": 4,
+      "id": 10
+    },
+    {
+      "nome": "Fundamentos de Design de Interfaces",
+      "informacoes": "Introdução a Interfaces",
+      "resumo": "Venha conhecer tudo o que você precisa para melhorar suas habilidade como um desginer gráfico",
+      "carga_horaria": 60,
+      "link": "desinginterface.com",
+      "status": "Cursando",
+      "categoria": 4,
+      "id": 11
+    },
+    {
+      "nome": "Design de Embalagens para Iniciantes",
+      "informacoes": "Design para Iniciantes",
+      "resumo": "Introdução a Designer industrial",
+      "carga_horaria": 180,
+      "link": "embalagens.com",
+      "status": "Cursando",
+      "categoria": 4,
+      "id": 12
+    },
+    {
+      "nome": "Construindo sua Carreira Profissional",
+      "informacoes": "Carreira Profissional",
+      "resumo": "este curso oferece orientação geral sobre como construir uma carreira de sucesso, abordando tópicos como networking, habilidades profissionais, gerenciamento de tempo e muito mais.",
+      "carga_horaria": 60,
+      "link": "carreiraprofissional.com",
+      "status": "Cursando",
+      "categoria": 5,
+      "id": 13
+    },
+    {
+      "nome": "Técnicas de Entrevista para o Sucesso",
+      "informacoes": "Entrevista",
+      "resumo": "este curso se concentra em preparar os participantes para entrevistas de emprego, fornecendo dicas úteis sobre como se apresentar, como responder a perguntas difíceis e como destacar suas habilidades e experiências",
+      "carga_horaria": 60,
+      "link": "entrevistas.com",
+      "status": "Cursando",
+      "categoria": 5,
+      "id": 14
+    },
+    {
+      "nome": "Desenvolvimento de Software para Iniciantes",
+      "informacoes": "Carreira",
+      "resumo": "este curso introdutório é projetado para pessoas que desejam aprender a desenvolver software, abordando tópicos como programação básica, estruturas de dados e algoritmos, linguagens de programação e muito mais.",
+      "carga_horaria": 60,
+      "link": "carreira.com",
+      "status": "Cursando",
+      "categoria": 5,
+      "id": 15
+    }
+  ]
+}
